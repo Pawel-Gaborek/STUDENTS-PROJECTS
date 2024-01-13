@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<FlowPane fx:id="flow" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="70.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.aufgabe4.FXMLController">
+    <children>
+        <MenuBar prefHeight="30.0" prefWidth="400.0">
+            <menus>
+                <Menu mnemonicParsing="false" text="File">
+                    <items>
+                        <MenuItem mnemonicParsing="false" text="Close" onAction="#close"/>
+                    </items>
+                </Menu>
+            </menus>
+            <opaqueInsets>
+                <Insets />
+            </opaqueInsets>
+        </MenuBar>
+        <ToolBar prefHeight="40.0" prefWidth="400.0">
+            <items>
+                <Button mnemonicParsing="false" text="Start" onAction="#run"/>
+                <Button mnemonicParsing="false" text="Stop" onAction="#stop"/>
+                <Button fx:id="pauseButton" mnemonicParsing="false" text="" onAction="#pause"/>
+                <Label prefHeight="27.0" prefWidth="40.0" text="Speed" />
+                <ChoiceBox fx:id="speed" prefHeight="27.0" prefWidth="60.0" onAction="#speed"/>
+                <Label prefHeight="27.0" text="Width 1" />
+                <ChoiceBox fx:id="widthCircle" prefHeight="27.0" prefWidth="60.0" onAction="#widthCircle"/>
+                <Label prefHeight="27.0" text="Width 2" />
+                <ChoiceBox fx:id="widthRectangle" prefHeight="27.0" prefWidth="60.0" onAction="#widthRectangle"/>
+                <Label prefHeight="27.0" text="Repeat" />
+                <ChoiceBox fx:id="repeat" prefHeight="27.0" prefWidth="60.0" onAction="#repeat"/>
+            </items>
+        </ToolBar>
+    </children>
+</FlowPane>

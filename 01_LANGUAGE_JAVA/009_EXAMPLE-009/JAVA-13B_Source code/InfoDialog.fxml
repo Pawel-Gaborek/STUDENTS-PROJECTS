@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity"
+      minHeight="-Infinity" minWidth="-Infinity"
+      prefHeight="150.0" prefWidth="400.0"
+      xmlns="http://javafx.com/javafx/8"
+      fx:controller="com.example.aufgabe_22.DialogInfoController"
+      xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <Button layoutX="290" layoutY="110.0" mnemonicParsing="false" prefHeight="20.0" prefWidth="100.0" text="OK" onAction="#ok"/>
+
+        <Label layoutX="14.0" layoutY="10.0" prefHeight="40.0" prefWidth="372.0" text=""  fx:id="labelPointsComputer">
+            <padding>
+                <Insets right="10.0" top="10.0" />
+            </padding>
+        </Label>
+        <Label layoutX="14.0" layoutY="40.0" prefHeight="40.0" prefWidth="372.0" text=""  fx:id="labelPointsUser">
+            <padding>
+                <Insets right="10.0" top="10.0" />
+            </padding>
+        </Label>
+        <Label layoutX="14.0" layoutY="70.0" prefHeight="40.0" prefWidth="372.0" text=""  fx:id="labelWinner">
+            <padding>
+                <Insets right="10.0" top="10.0" />
+            </padding>
+        </Label>
+    </children>
+</Pane>
