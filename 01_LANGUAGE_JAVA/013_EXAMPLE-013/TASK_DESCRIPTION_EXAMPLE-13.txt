@@ -1,0 +1,24 @@
+==============================================
+DESCRIBE ENGLISH 
+==============================================
+
+1. modify the calculator in this workbook so that the arithmetic operation is no longer selected from a group of radio buttons, but from a combo box.
+Use the following specifications:
+- Create the list for the combo box using an array.
+- Determine the type of calculation to be performed directly from the index of the selected item in the combo box list.
+- As soon as another item is selected in the combo box, the calculation should be performed immediately.
+- During event processing, make sure that the system checks which component has triggered the event.
+- As a template, use the version of the calculator in which input errors are caught by exception handling.
+
+
+==============================================
+DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
+==============================================
+
+1. Ändern Sie den Taschenrechner aus diesem Studienheft so, dass die Auswahl der Rechenoperation nicht mehr über eine Gruppe mit Optionsfeldern erfolgt, sondern über ein Kombinationsfeld.
+Dabei gelten folgende Vorgaben:
+• Erstellen Sie die Liste für das Kombinationsfeld über ein Array.
+• Ermitteln Sie die Rechenart, die ausgeführt werden soll, direkt über den Index des ausgewählten Eintrags in der Liste des Kombinationsfelds.
+• Sobald ein anderer Eintrag in dem Kombinationsfeld ausgewählt wurde, soll die Rechnung sofort ausgeführt werden.
+• Sorgen Sie bei der Ereignisverarbeitung dafür, dass überprüft wird, welche Komponente das Ereignis ausgelöst hat.
+• Benutzen Sie als Vorlage bitte die Version des Taschenrechners, bei der Eingabefehler durch ein Exception Handling abgefangen werden.
