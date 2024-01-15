@@ -2,8 +2,25 @@
 DESCRIBE ENGLISH 
 ==============================================
 
+1. formulate catch statements to handle the following exceptions
+a) An argument is passed in an invalid format,
+b) an attempt to access a non-existent class,
+c) a failed conversion of a string to a numeric value,
+d) access to an invalid index in an array,
+e) for any real exceptions that might occur.
+You only need to specify the line with the catch statement.
+
+
 
 ==============================================
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
+
+1. Formulieren Sie catch-Anweisungen für die Verarbeitung folgender Ausnahmen:
+a) ein Argument wird in einem ungültigen Format übergeben,
+b) ein Zugriff auf eine nicht vorhandene Klasse,
+c) eine gescheiterte Umwandlung einer Zeichenkette in einen numerischen Wert,
+d) ZugriffaufeinenungültigenIndexineinemArray,
+e) für sämtliche echte Ausnahmen, die auftreten können.
+Sie müssen dabei jeweils nur die Zeile mit der catch-Anweisung angeben.
 

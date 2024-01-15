@@ -2,8 +2,15 @@
 DESCRIBE ENGLISH 
 ==============================================
 
+In our class for the graphical input dialogs, we check whether the input was aborted by comparing a variable with the value zero. In principle, this construction could be replaced by exception handling. Which exception would be suitable for this? How could you throw this exception?
+Hint: Take a close look at the value returned by the input dialog when the input is aborted. You can also use the Eclipse debugger to do this.
+
 
 ==============================================
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
+
+In unserer Klasse für die grafischen Eingabedialoge überprüfen wir durch den Vergleich einer Variablen mit dem Wert null, ob die Eingabe abgebrochen wurde. Diese Konstruktion kann grundsätzlich auch durch eine Ausnahmebehandlung ersetzt werden. Welche Ausnahme käme dafür infrage? Wie könnten Sie diese Ausnahme auslösen?
+Ein kleiner Tipp: Sehen Sie sich genau an, welchen Wert der Eingabedialog liefert, wenn die Eingabe abgebrochen wird. Benutzen Sie dazu gegebenenfalls auch den Debugger von Eclipse.
+
 

@@ -2,8 +2,11 @@
 DESCRIBE ENGLISH 
 ==============================================
 
+You agree on multiple exception handlers for a try block. In what order are these exception handlers processed? Where must the exception handler that handles all possible exceptions at once be located?
+
 
 ==============================================
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
 
+Sie vereinbaren für einen try-Block mehrere Exception Handler. In welcher Reihenfolge werden diese Exception Handler bearbeitet? An welcher Position muss sich zwingend der Exception Handler befinden, der alle denkbaren Aus- nahmen gleichzeitig behandelt?
