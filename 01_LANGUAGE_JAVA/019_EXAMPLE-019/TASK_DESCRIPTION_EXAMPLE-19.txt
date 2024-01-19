@@ -1,12 +1,30 @@
 ==============================================
 DESCRIBE ENGLISH 
 ==============================================
+1. convert the simple calculator you created as a Swing application into a JavaFX application. It is up to you whether you choose the arithmetic operation via a combo box or radio buttons.
+max. 50 points.
+2. Create a dialog for JavaFX in which the user can answer a question with Yes or No. The dialog could look like this, for example:
 
-You agree on multiple exception handlers for a try block. In what order are these exception handlers processed? Where must the exception handler that handles all possible exceptions at once be located?
+Make sure that you can evaluate the user's answer in your code. The dialog must return a value. How you proceed is up to you.
+It is up to you whether you build the new dialog from this tutorial into the editor for the solution, or whether you create your own application that just displays the dialog and evaluates the return value. 
+Please note
+The close() method only closes the dialog. It does not automatically free the instance of the dialog class.
 
 
 ==============================================
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
+1. Setzen Sie den einfachen Taschenrechner, den Sie als Swing-Anwendung erstellt haben, als JavaFX-Anwendung um. Ob Sie die Auswahl der Rechenoperation dabei über ein Kombinationsfeld oder Optionsfelder vornehmen, ist Ihnen freigestellt.
+max. 50 Pkt.
+2. Erstellen Sie einen Dialog für JavaFX, in dem der Anwender eine Frage mit Ja oder Nein beantworten kann. Der Dialog könnte zum Beispiel so aussehen:
 
-Sie vereinbaren für einen try-Block mehrere Exception Handler. In welcher Reihenfolge werden diese Exception Handler bearbeitet? An welcher Position muss sich zwingend der Exception Handler befinden, der alle denkbaren Aus- nahmen gleichzeitig behandelt?
+Stellen Sie sicher, dass Sie die Antwort des Anwenders in Ihrem Code auswerten können. Der Dialog muss also einen Rückgabewert zur Verfügung stellen. Wie Sie dabei vorgehen, ist Ihnen wieder freigestellt.
+Ob Sie für die Lösung den neuen Dialog in den Editor aus diesem Studienheft ein- bauen oder eine eigene Anwendung erstellen, die nur den Dialog anzeigt und die Rückgabe auswertet, ist Ihnen freigestellt. 
+Ein Hinweis:
+Mit der Methode close() schließen Sie lediglich das Fenster eines Dialogs. Die Instanz der Klasse für den Dialog wird dabei aber nicht automatisch freigegeben.
+Mit der Methode close() schließen Sie lediglich das Fenster eines Dialogs. Die Instanz der Klasse für den Dialog wird dabei aber nicht automatisch freigegeben.
+
+
+
+Ein Hinweis:
+Mit der Methode close() schließen Sie lediglich das Fenster eines Dialogs. Die Instanz der Klasse für den Dialog wird dabei aber nicht automatisch freigegeben.

@@ -1,11 +1,1 @@
- ==============================================
-DESCRIBE ENGLISH 
-==============================================
-
-Describe how to set a breakpoint for the debugger in a program.
-
-==============================================
-DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
-==============================================
-
-Beschreiben Sie bitte, wie Sie einen Haltepunkt für den Debugger in einem Programm setzen.
+==============================================DESCRIBE ENGLISH ==============================================Create a program that animates a circle and a square. The circle should get bigger and bigger from the inside out and the square should get smaller and smaller from the inside out. The animations should be repeated 10 times and automatically run backwards. All other settings for the animation, such as size or speed, can be set by you.==============================================DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH==============================================Erstellen Sie ein Programm, das einen Kreis und ein Quadrat animiert. Der Kreis soll dabei von innen nach außen immer größer werden und das Quadrat von innen nach außen immer kleiner. Die Animationen sollen jeweils 10-mal wiederholt werden und automatisch wieder zurücklaufen. Alle weiteren Einstellungen für die Animation wie die Größe oder die Geschwindig- keit können Sie selbst festlegen. ????

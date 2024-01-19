@@ -1,24 +1,1 @@
-==============================================
-DESCRIBE ENGLISH 
-==============================================
-
-1. modify the calculator in this workbook so that the arithmetic operation is no longer selected from a group of radio buttons, but from a combo box.
-Use the following specifications:
-- Create the list for the combo box using an array.
-- Determine the type of calculation to be performed directly from the index of the selected item in the combo box list.
-- As soon as another item is selected in the combo box, the calculation should be performed immediately.
-- During event processing, make sure that the system checks which component has triggered the event.
-- As a template, use the version of the calculator in which input errors are caught by exception handling.
-
-
-==============================================
-DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
-==============================================
-
-1. Ändern Sie den Taschenrechner aus diesem Studienheft so, dass die Auswahl der Rechenoperation nicht mehr über eine Gruppe mit Optionsfeldern erfolgt, sondern über ein Kombinationsfeld.
-Dabei gelten folgende Vorgaben:
-• Erstellen Sie die Liste für das Kombinationsfeld über ein Array.
-• Ermitteln Sie die Rechenart, die ausgeführt werden soll, direkt über den Index des ausgewählten Eintrags in der Liste des Kombinationsfelds.
-• Sobald ein anderer Eintrag in dem Kombinationsfeld ausgewählt wurde, soll die Rechnung sofort ausgeführt werden.
-• Sorgen Sie bei der Ereignisverarbeitung dafür, dass überprüft wird, welche Komponente das Ereignis ausgelöst hat.
-• Benutzen Sie als Vorlage bitte die Version des Taschenrechners, bei der Eingabefehler durch ein Exception Handling abgefangen werden.
+==============================================DESCRIBE ENGLISH ==============================================1. create an editor that allows you to save a list of words for the Hangman game to a file. In this file you will save not only the words themselves, but also the number of words saved. It is enough to append a new word to the end of the file to save it. Subsequent changes to saved words are not necessary. However, the editor should be able to display the existing words. How you implement the editor in detail and which library you use for the interface is up to you. However, please document your solution in detail.2. Modify the Hangman game from this tutorial so that the word is no longer randomly picked from an array, but from the file you created in Task 1. However, the word should still be determined randomly. How you implement the access is up to you. However, please document this solution in detail.==============================================DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH==============================================1. Erstellen Sie einen Editor, mit dem Sie eine Wortliste für das Hangman-Spiel in einer Datei ablegen können. Speichern Sie in dieser Datei nicht nur die Wörter an sich, sondern auch die Anzahl der gespeicherten Wörter. Für das Speichern reicht es aus, wenn Sie jeweils ein neues Wort am Ende der Datei anhängen. Eine nachträgliche Änderung von gespeicherten Wörtern ist nicht erforderlich. Der Editor soll aber die bereits vorhandenen Wörter anzeigen können. Wie Sie den Editor im Detail umsetzen und welche Bibliothek Sie für die Oberfläche verwenden, bleibt Ihnen überlassen. Dokumentieren Sie Ihre Lösung aber bitte ausführlich. 2. Ändern Sie das Hangman-Spiel aus diesem Studienheft so, dass das Wort nicht mehr zufällig aus einem Array ermittelt wird, sondern aus der Datei, die Sie in der Aufgabe 1 erstellt haben. Das Wort soll dabei aber nach wie vor zufällig ermittelt werden. Wie Sie den Zugriff umsetzen, bleibt Ihnen überlassen. Dokumentieren Sie aber bitte auch diese Lösung ausführlich. ?

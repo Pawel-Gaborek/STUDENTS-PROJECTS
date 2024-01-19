@@ -2,15 +2,36 @@
 DESCRIBE ENGLISH 
 ==============================================
 
-In our class for the graphical input dialogs, we check whether the input was aborted by comparing a variable with the value zero. In principle, this construction could be replaced by exception handling. Which exception would be suitable for this? How could you throw this exception?
-Hint: Take a close look at the value returned by the input dialog when the input is aborted. You can also use the Eclipse debugger to do this.
+1. create an Info function that displays information about word processing in a dialog box. This dialog could look like this:
+Figure E.1: The Info dialog
+It should be possible to call the Info function via an icon as well as via an Info
+Info entry in a help menu.
+Create an action object for this function and assign it to an icon and the corresponding menu entry. You can use the Information24.gif file in the \examples\icons folder on the disk for the icon.
+
+2. add the clipboard functions Cut, Copy, and Paste to the word processing toolbar. Use the
+the corresponding default actions from the DefaultEditorKit class. You can find these actions very quickly by using the English translations for the search. Cut can be translated with Cut, Copy with Copy and Paste with Paste.
+Set appropriate screen tips for the icons. Pictures can be found in the \examples\icons folder under the names Cut24.gif, Copy24.gif and Paste24.gif.
+
+3. display the name and the full path or URL of the current document after the text "MiniText" in the title bar of the word processor. If the document does not yet have a name, "withoutName" should appear in the title bar.
+You can set the text in the title bar with the setTitle() method.
 
 
 ==============================================
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
 
-In unserer Klasse für die grafischen Eingabedialoge überprüfen wir durch den Vergleich einer Variablen mit dem Wert null, ob die Eingabe abgebrochen wurde. Diese Konstruktion kann grundsätzlich auch durch eine Ausnahmebehandlung ersetzt werden. Welche Ausnahme käme dafür infrage? Wie könnten Sie diese Ausnahme auslösen?
-Ein kleiner Tipp: Sehen Sie sich genau an, welchen Wert der Eingabedialog liefert, wenn die Eingabe abgebrochen wird. Benutzen Sie dazu gegebenenfalls auch den Debugger von Eclipse.
+1. Erstellen Sie eine Funktion Info, die in einem Dialog Informationen zur Textverarbeitung anzeigt. Dieser Dialog könnte zum Beispiel so aussehen:
+Abb. E.1: Der Dialog Info
+Der Aufruf der Funktion Info soll sowohl über ein Symbol als auch über einen
+Eintrag Info in einem Menü Hilfe möglich sein.
+Erstellen Sie ein Action-Objekt für diese Funktion und ordnen Sie es einem Symbol und dem entsprechenden Menüeintrag zu. Für das Symbol können Sie die Datei Information24.gif im Ordner \beispiele\icons auf den Datenträgern verwenden.
 
+2. Bauen Sie die Funktionen Ausschneiden, Kopieren und Einfügen für die Zwischenablage in die Symbolleiste der Textverarbeitung ein. Benutzen Sie
+dazu die entsprechenden Standardaktionen aus der Klasse DefaultEditorKit. Sie finden diese Aktionen sehr schnell, wenn Sie für die Suche die englischen Übersetzungen verwenden. Ausschneiden lässt sich mit Cut übersetzen, Kopieren mit Copy und Einfügen mit Paste.
+Setzen Sie für die Symbole geeignete Bildschirmtipps. Bilder finden Sie im Ordner \beispiele\icons unter den Namen Cut24.gif, Copy24.gif und Paste24.gif.
 
+3. Lassen Sie in der Titelleiste der Textverarbeitung hinter dem Text „MiniText“ zusätzlich den Namen und den vollständigen Pfad beziehungsweise die URL des aktuellen Dokuments anzeigen. Wenn das Dokument noch keinen Namen hat, soll in der Titelleiste „ohneName“ erscheinen.
+Den Text in der Titelleiste können Sie mit der Methode setTitle() setzen.
+
+3. Lassen Sie in der Titelleiste der Textverarbeitung hinter dem Text „MiniText“ zusätzlich den Namen und den vollständigen Pfad beziehungsweise die URL des aktuellen Dokuments anzeigen. Wenn das Dokument noch keinen Namen hat, soll in der Titelleiste „ohneName“ erscheinen.
+Den Text in der Titelleiste können Sie mit der Methode setTitle() setzen.

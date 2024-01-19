@@ -1,37 +1,1 @@
-==============================================
-DESCRIBE ENGLISH 
-==============================================
-
-Create an application in which you can change the position of the application window using four buttons. One button should move the window 10 pixels up, one 10 pixels down, and the other two 10 pixels to the left and right.
-Please note the following specifications when implementing this:
-- Create an inner class for the listener in the class containing the
-window of the application. The listener should be able to handle the events of all four buttons.
-buttons.
-- Set the window of the application to a fixed size of 200 * 200 and
-and position it anywhere on the desktop.
-- Arrange the buttons in a BorderLayout with a distance of
-of 25 pixels above and below.
-- Make sure that the window cannot be moved off the desktop.
-out of the desktop. To do this, determine the current size of the desktop and then calculate the maximum possible coordinates for moving it to the right and down. You can use the value 0 as the limit for moving to the left or top.
-A small hint:
-You can find out how to determine the current size of the desktop by centering a window on the desktop in this Study Guide. Look there again if you need to.
-
-
-==============================================
-DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
-==============================================
-
-Erstellen Sie eine Anwendung, in der Sie die Position des Fensters der Anwendung über vier Schaltflächen verändern können. Eine Schaltfläche soll das Fenster um 10 Pixel nach oben verschieben, eine um 10 Pixel nach unten und die beiden anderen um je 10 Pixel nach links beziehungsweise rechts.
-Beachten Sie bei der Umsetzung bitte die folgenden Vorgaben:
-• Erstellen Sie für den Listener eine innere Klasse in der Klasse mit dem
-Fenster der Anwendung. Der Listener soll die Ereignisse aller vier
-Schaltflächen verarbeiten können.
-• Setzen Sie das Fenster der Anwendung fest auf die Größe 200 * 200 und
-positionieren Sie es zunächst an einer beliebigen Stelle auf dem Desktop.
-• Ordnen Sie die Schaltflächen in einem BorderLayout mit einem Abstand
-von 25 Pixeln nach oben und unten an.
-• Stellen Sie sicher, dass das Fenster nicht aus dem Desktop
-herausgeschoben werden kann. Ermitteln Sie dazu die aktuelle Größe des Desktops und berechnen Sie dann die maximal möglichen Koordinaten für die Verschiebung nach rechts und nach unten. Für die Verschiebung nach links beziehungsweise oben können Sie den Wert 0 als Grenze verwenden.
-Ein kleiner Tipp:
-Wie Sie die aktuelle Größe des Desktops ermitteln können, finden Sie in diesem Studienheft beim Zentrieren eines Fensters auf dem Desktop. Sehen Sie dort gegebenenfalls noch einmal nach.
-
+==============================================DESCRIBE ENGLISH ==============================================Add a function for drawing a filled circle to the Paint program in this tutorial. You can decide which color you want to use to fill the circle. This function should also be available from the toolbar. You can find an image for this symbol in the \examples\icons folder under the name circlefilled24.gif.==============================================DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH==============================================Erweitern Sie das Malprogramm aus diesem Studienheft um eine Funktion zum Zeichnen eines gefüllten Kreises. Mit welcher Farbe Sie den Kreis füllen lassen, können Sie selbst entscheiden. ?Diese Funktion soll ebenfalls über die Symbolleiste aufgerufen werden. Eine Grafik für das Symbol finden Sie im Ordner \beispiele\icons unter dem Namen circlefilled24.gif. ???
