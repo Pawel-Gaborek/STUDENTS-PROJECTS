@@ -2,17 +2,30 @@
 DESCRIBE ENGLISH 
 ==============================================
 
-1. Create an application that allows you to switch between layouts for an internal panel at runtime. This panel should contain at least three labels or similar components.
-Offer the user at least three different layouts via a group of radio buttons. It is up to you which layouts you use. For example, you can use grid layouts with different numbers of columns.
-As soon as the user selects a different layout, the changes should be visible immediately. Note that only the
-for the inner panel should change. The layout of the application itself should remain the same.
+1. Create an application that allows you to switch between layouts for an internal panel
+at runtime. This panel should contain at least three labels or similar components.
+Offer the user at least three different layouts via a group of radio buttons. It 
+is up to you which layouts you use. For example, you can use grid layouts with 
+different numbers of columns.
+As soon as the user selects a different layout, the changes should be visible 
+immediately. Note that only the
+for the inner panel should change. The layout of the application itself 
+should remain the same.
 
 
 ==============================================
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
 
-1. Erstellen Sie eine Anwendung, bei der zur Laufzeit zwischen den Layouts für ein innen liegendes Panel gewechselt werden kann. In diesem Panel sollen sich mindestens drei Labels oder ähnliche Komponenten befinden.
-Bieten Sie dem Anwender dabei mindestens drei verschiedene Layouts über eine Gruppe mit Optionsfeldern an. Welche Layouts Sie genau verwenden, ist Ihnen freigestellt. Sie können zum Beispiel auch GridLayouts mit unterschiedlicher Spaltenzahl benutzen.
-Sobald der Anwender ein anderes Layout auswählt, sollen die Änderungen sofort sichtbar werden. Bitte beachten Sie dabei, dass sich ausschließlich das Layout
-für das innen liegende Panel ändern soll. Das Layout der Anwendung an sich soll unverändert bleiben.
+1. Erstellen Sie eine Anwendung, bei der zur Laufzeit zwischen den Layouts 
+f≈∏r ein innen liegendes Panel gewechselt werden kann. In diesem Panel 
+sollen sich mindestens drei Labels oder ≈†hnliche Komponenten befinden.
+Bieten Sie dem Anwender dabei mindestens drei verschiedene Layouts ≈∏ber eine 
+Gruppe mit Optionsfeldern an. Welche Layouts Sie genau verwenden, ist 
+Ihnen freigestellt. Sie k≈°nnen zum Beispiel auch GridLayouts mit 
+unterschiedlicher Spaltenzahl benutzen.
+Sobald der Anwender ein anderes Layout ausw≈†hlt, sollen die ‚Ç¨nderungen 
+sofort sichtbar werden. Bitte beachten Sie dabei, dass sich ausschlie¬ßlich 
+das Layout
+f≈∏r das innen liegende Panel ≈†ndern soll. Das Layout der Anwendung an 
+sich soll unver≈†ndert bleiben.
