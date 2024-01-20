@@ -1,1 +1,23 @@
-==============================================DESCRIBE ENGLISH ==============================================You want to use a shape to draw a yellow filled rectangle with a black border. See the instructions. You can choose the size of the rectangle.==============================================DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH==============================================Sie wollen mit einem Shape ein gelb gefülltes Rechteck mit einem schwarzen Rand zeichnen lassen. Notieren Sie bitte die entsprechenden Anweisungen. Die Größe des Rechtecks können Sie dabei frei wählen. ??
+==============================================
+DESCRIBE ENGLISH
+==============================================
+
+You want to use a shape to draw a yellow filled rectangle 
+with a black border. See the instructions. You can choose 
+the size of the rectangle.
+
+
+==============================================
+DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
+==============================================
+
+Sie wollen mit einem Shape ein gelb gef≈∏lltes Rechteck mit 
+einem schwarzen Rand zeichnen lassen. Notieren Sie bitte die 
+entsprechenden Anweisungen. Die Gr≈°¬ße des Rechtecks 
+k≈°nnen Sie dabei frei w≈†hlen. ??
+
+
+
+
+
+
