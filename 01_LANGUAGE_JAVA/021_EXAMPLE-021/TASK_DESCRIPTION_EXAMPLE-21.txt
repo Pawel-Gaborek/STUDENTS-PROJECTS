@@ -2,10 +2,14 @@
 DESCRIBE ENGLISH 
 ==============================================
 
-1. The BuntOderNichtGUI class you created in this tutorial still has a small bug: Although the color red is displayed in the combo box, this color is not used until you explicitly select it again from the combo box.
+1. The BuntOderNichtGUI class you created in this tutorial still has a small bug: Although the 
+color red is displayed in the combo box, this color is not used until you explicitly select it 
+again from the combo box.
 Change the class so that the combo box shows the current color right after the program starts.
 A small hint:
-You do not need to write any new code to implement this change. A small correction in the source code is sufficient. Take a close look at the entries in the list of the combo box and check what color the text initially has.
+You do not need to write any new code to implement this change. A small correction in the 
+source code is sufficient. Take a close look at the entries in the list of the combo box and 
+check what color the text initially has.
 
 
 
@@ -13,7 +17,13 @@ You do not need to write any new code to implement this change. A small correcti
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
 
-1. Die Klasse BuntOderNichtGUI, die Sie in diesem Studienheft erstellt haben, weist noch einen kleinen Schönheitsfehler auf: In dem Kombinationsfeld wird zwar die Farbe Rot angezeigt, allerdings wird diese Farbe erst dann benutzt, wenn Sie sie noch einmal ausdrücklich über das Kombinationsfeld auswählen.
-Ändern Sie die Klasse so, dass die Anzeige im Kombinationsfeld die aktuelle Farbe direkt nach dem Start des Programms anzeigt.
+1. Die Klasse BuntOderNichtGUI, die Sie in diesem Studienheft erstellt haben, weist noch 
+einen kleinen Sch≈°nheitsfehler auf: In dem Kombinationsfeld wird zwar die Farbe Rot angezeigt, 
+allerdings wird diese Farbe erst dann benutzt, wenn Sie sie noch einmal ausdr≈∏cklich ≈∏ber 
+das Kombinationsfeld ausw≈†hlen.
+‚Ç¨ndern Sie die Klasse so, dass die Anzeige im Kombinationsfeld die aktuelle Farbe direkt 
+nach dem Start des Programms anzeigt.
 Ein kleiner Tipp:
-Um diese Änderung umzusetzen, müssen Sie keine neuen Anweisungen program- mieren. Es reicht eine kleine Korrektur im Quelltext aus. Sehen Sie sich die Einträge in der Liste des Kombinationsfelds genau an und überprüfen Sie, welche Farbe der Text zunächst hat.
+Um diese ‚Ç¨nderung umzusetzen, m≈∏ssen Sie keine neuen Anweisungen program- mieren. 
+Es reicht eine kleine Korrektur im Quelltext aus. Sehen Sie sich die Eintr≈†ge in der 
+Liste des Kombinationsfelds genau an und ≈∏berpr≈∏fen Sie, welche Farbe der Text zun≈†chst hat.
