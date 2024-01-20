@@ -1,10 +1,90 @@
-==============================================DESCRIBE ENGLISH ==============================================
-The system was implemented in the following technology: frontend using Angular, HTML and TypeScript, and backend using JavaScript and NodeJS. In addition, a relational SQL database was used. An IT system for comprehensive support of the investment process in the construction and investment industry, both in terms of service sales and project management. The IT system supports investment processes in a unified and comprehensive way. It is intended for investors, designers, contractors, experts and other members of the construction and investment process. It acts as a comprehensive intermediary between the investor and designers, contractors and other members of the investment and construction process. Communication, approvals, payments, legal services and approval of individual stages take place online. The client, i.e. the investor, places an advertisement and then receives offers from bidders, always depending on the criterion that will be set. The attractiveness of a given offer will be determined not only by the price, but primarily by the evaluation of the quality of the provider's services, timeliness, creativity of the proposed solutions and the customer's opinion.
-The system architecture is based on a simple division (backend and frontend). This model of system construction allows to develop user interfaces (front-end) in a scalable and flexible way in the future, which have their own specificity for other systems or other mobile devices, thanks to which they can be very well adapted to the specificity of a given device.
-In this model, the backend is responsible for communicating with the user, while the frontend is the part of the system that interacts with the user. Thanks to this approach, future frontend creation for platforms such as Android or iOS will be easier and faster. This strategy uses the REST strategy, which means that the backend provides support for database operations. It is responsible for filtering data, validating data, and transferring appropriate data to the frontend. The MVC design pattern was used to create the system. Currently, it is often used to create web applications. This pattern involves dividing the system into a model that operates on the database, a controller that operates on data from the model, and a view that presents the data provided by the controller. Reverse communication takes place in a similar way, but in the opposite direction.
-Thanks to the use of such a design pattern, the system is transparent and has the so-called modular construction. The AGILE system development methodology was used to produce this system. This is a methodology of agile software development. The initial concept was established, an idea that was presented using the Axure RP system, and then this idea was developed and enriched with additional functions and assumptions. Thanks to the method of creating software in the form of small parts of a larger system, it was possible to quickly react to various inconsistencies, errors or implement new ideas.==============================================DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH==============================================
-bersetzung
-Das System wurde in folgender Technologie implementiert: Frontend mit Angular, HTML und TypeScript und Backend mit JavaScript und NodeJS. Darüber hinaus wurde eine relationale SQL-Datenbank verwendet. Ein IT-System zur umfassenden Unterstützung des Investitionsprozesses in der Bau- und Investitionsbranche, sowohl im Dienstleistungsverkauf als auch im Projektmanagement. Das IT-System unterstützt Anlageprozesse einheitlich und umfassend. Es richtet sich an Investoren, Designer, Auftragnehmer, Experten und andere am Bau- und Investitionsprozess beteiligte Personen. Es fungiert als umfassender Vermittler zwischen dem Investor und Designern, Auftragnehmern und anderen Beteiligten des Investitions- und Bauprozesses. Kommunikation, Genehmigungen, Zahlungen, Rechtsberatung und Genehmigung einzelner Etappen erfolgen online. Der Auftraggeber, also der Investor, schaltet ein Inserat und erhält dann Angebote von Bietern, immer abhängig vom eingestellten Kriterium. Die Attraktivität eines Angebots wird nicht nur durch den Preis bestimmt, sondern vor allem durch die Bewertung der Qualität der Dienstleistungen des Anbieters, der Aktualität, der Kreativität der vorgeschlagenen Lösungen und der Meinung des Kunden.
-Die Systemarchitektur basiert auf einer einfachen Aufteilung (Backend und Frontend). Dieses Modell des Systemaufbaus ermöglicht es, in Zukunft Benutzeroberflächen (Frontend) skalierbar und flexibel zu entwickeln, die ihre eigene Spezifität für andere Systeme oder andere mobile Geräte haben und dank derer sie sehr gut an die Spezifität angepasst werden können eines bestimmten Geräts.
-In diesem Modell ist das Backend für die Kommunikation mit dem Benutzer verantwortlich, während das Frontend der Teil des Systems ist, der mit dem Benutzer interagiert. Dank dieses Ansatzes wird die zukünftige Frontend-Erstellung für Plattformen wie Android oder iOS einfacher und schneller sein. Diese Strategie nutzt die REST-Strategie, was bedeutet, dass das Backend Datenbankoperationen unterstützt. Es ist dafür verantwortlich, Daten zu filtern, Daten zu validieren und entsprechende Daten an das Frontend zu übertragen. Zur Erstellung des Systems wurde das MVC-Entwurfsmuster verwendet. Derzeit wird es häufig zum Erstellen von Webanwendungen verwendet. Dieses Muster beinhaltet die Aufteilung des Systems in ein Modell, das mit der Datenbank arbeitet, einen Controller, der mit Daten aus dem Modell arbeitet, und eine Ansicht, die die vom Controller bereitgestellten Daten darstellt. Die umgekehrte Kommunikation erfolgt auf ähnliche Weise, jedoch in umgekehrter Richtung.
-Durch die Verwendung eines solchen Designmusters ist das System transparent und weist den sogenannten modularen Aufbau auf. Zur Erstellung dieses Systems wurde die AGILE-Systementwicklungsmethodik verwendet. Dies ist eine Methodik der agilen Softwareentwicklung. Das ursprüngliche Konzept wurde erstellt, eine Idee, die mithilfe des Axure RP-Systems präsentiert wurde. Anschließend wurde diese Idee weiterentwickelt und mit zusätzlichen Funktionen und Annahmen angereichert. Dank der Methode, Software in Form kleiner Teile eines größeren Systems zu erstellen, war es möglich, schnell auf verschiedene Inkonsistenzen und Fehler zu reagieren oder neue Ideen umzusetzen.
+==============================================
+DESCRIBE ENGLISH
+==============================================
+
+The system was implemented in the following technology: frontend using Angular, HTML 
+and TypeScript, and backend using JavaScript and NodeJS. In addition, a relational SQL 
+database was used. An IT system for comprehensive support of the investment process in 
+the construction and investment industry, both in terms of service sales and project 
+management. The IT system supports investment processes in a unified and comprehensive way. 
+It is intended for investors, designers, contractors, experts and other members of the 
+construction and investment process. It acts as a comprehensive intermediary between the 
+investor and designers, contractors and other members of the investment and construction 
+process. Communication, approvals, payments, legal services and approval of individual 
+stages take place online. The client, i.e. the investor, places an advertisement and then 
+receives offers from bidders, always depending on the criterion that will be set. 
+The attractiveness of a given offer will be determined not only by the price, but 
+primarily by the evaluation of the quality of the provider's services, timeliness, 
+creativity of the proposed solutions and the customer's opinion.
+The system architecture is based on a simple division (backend and frontend). 
+This model of system construction allows to develop user interfaces (front-end) 
+in a scalable and flexible way in the future, which have their own specificity 
+for other systems or other mobile devices, thanks to which they can be very well 
+adapted to the specificity of a given device.
+In this model, the backend is responsible for communicating with the user, while 
+the frontend is the part of the system that interacts with the user. Thanks to this 
+approach, future frontend creation for platforms such as Android or iOS will be 
+easier and faster. This strategy uses the REST strategy, which means that the 
+backend provides support for database operations. It is responsible for filtering data, 
+validating data, and transferring appropriate data to the frontend. The MVC design 
+pattern was used to create the system. Currently, it is often used to create web 
+applications. This pattern involves dividing the system into a model that operates 
+on the database, a controller that operates on data from the model, and a view that 
+presents the data provided by the controller. Reverse communication takes place in 
+a similar way, but in the opposite direction.
+Thanks to the use of such a design pattern, the system is transparent and has the 
+so-called modular construction. The AGILE system development methodology was used 
+to produce this system. This is a methodology of agile software development. 
+The initial concept was established, an idea that was presented using the Axure 
+RP system, and then this idea was developed and enriched with additional functions 
+and assumptions. Thanks to the method of creating software in the form of small 
+parts of a larger system, it was possible to quickly react to various inconsistencies, 
+errors or implement new ideas.
+
+
+
+
+==============================================
+DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
+==============================================
+
+bersetzung
+Das System wurde in folgender Technologie implementiert: Frontend mit Angular, HTML 
+und TypeScript und Backend mit JavaScript und NodeJS. Dar≈∏ber hinaus wurde eine 
+relationale SQL-Datenbank verwendet. Ein IT-System zur umfassenden Unterst≈∏tzung
+des Investitionsprozesses in der Bau- und Investitionsbranche, sowohl im 
+Dienstleistungsverkauf als auch im Projektmanagement. Das IT-System unterst≈∏tzt 
+Anlageprozesse einheitlich und umfassend. Es richtet sich an Investoren, Designer, 
+Auftragnehmer, Experten und andere am Bau- und Investitionsprozess beteiligte Personen.
+Es fungiert als umfassender Vermittler zwischen dem Investor und Designern,
+Auftragnehmern und anderen Beteiligten des Investitions- und Bauprozesses. Kommunikation,
+Genehmigungen, Zahlungen, Rechtsberatung und Genehmigung einzelner Etappen erfolgen 
+online. Der Auftraggeber, also der Investor, schaltet ein Inserat und erh≈†lt dann
+Angebote von Bietern, immer abh≈†ngig vom eingestellten Kriterium. Die Attraktivit≈†t 
+eines Angebots wird nicht nur durch den Preis bestimmt, sondern vor allem durch die 
+Bewertung der Qualit≈†t der Dienstleistungen des Anbieters, der Aktualit≈†t, der Kreativit≈†t 
+der vorgeschlagenen L≈°sungen und der Meinung des Kunden.
+Die Systemarchitektur basiert auf einer einfachen Aufteilung (Backend und Frontend).
+Dieses Modell des Systemaufbaus erm≈°glicht es, in Zukunft Benutzeroberfl≈†chen (Frontend) 
+skalierbar und flexibel zu entwickeln, die ihre eigene Spezifit≈†t f≈∏r andere Systeme oder
+andere mobile Ger≈†te haben und dank derer sie sehr gut an die Spezifit≈†t angepasst 
+werden k≈°nnen eines bestimmten Ger≈†ts.
+In diesem Modell ist das Backend f≈∏r die Kommunikation mit dem Benutzer verantwortlich,
+w≈†hrend das Frontend der Teil des Systems ist, der mit dem Benutzer interagiert. 
+Dank dieses Ansatzes wird die zuk≈∏nftige Frontend-Erstellung f≈∏r Plattformen wie 
+Android oder iOS einfacher und schneller sein. Diese Strategie nutzt die REST-Strategie,
+was bedeutet, dass das Backend Datenbankoperationen unterst≈∏tzt. Es ist daf≈∏r verantwortlich,
+Daten zu filtern, Daten zu validieren und entsprechende Daten an das Frontend zu ≈∏bertragen.
+Zur Erstellung des Systems wurde das MVC-Entwurfsmuster verwendet. Derzeit wird es 
+h≈†ufig zum Erstellen von Webanwendungen verwendet. Dieses Muster beinhaltet die 
+Aufteilung des Systems in ein Modell, das mit der Datenbank arbeitet, einen Controller, 
+der mit Daten aus dem Modell arbeitet, und eine Ansicht, die die vom Controller 
+bereitgestellten Daten darstellt. Die umgekehrte Kommunikation erfolgt auf ≈†hnliche Weise, 
+jedoch in umgekehrter Richtung.
+Durch die Verwendung eines solchen Designmusters ist das System transparent und weist den 
+sogenannten modularen Aufbau auf. Zur Erstellung dieses Systems wurde die AGILE-Systementwicklungsmethodik 
+verwendet. Dies ist eine Methodik der agilen Softwareentwicklung. Das urspr≈∏ngliche Konzept wurde erstellt, 
+eine Idee, die mithilfe des Axure RP-Systems pr≈†sentiert wurde. Anschlie¬ßend wurde diese Idee 
+weiterentwickelt und mit zus≈†tzlichen Funktionen und Annahmen angereichert. Dank der Methode,
+Software in Form kleiner Teile eines gr≈°¬ßeren Systems zu erstellen, war es m≈°glich, schnell auf 
+verschiedene Inkonsistenzen und Fehler zu reagieren oder neue Ideen umzusetzen.
