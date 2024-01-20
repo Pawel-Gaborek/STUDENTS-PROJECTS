@@ -1,4 +1,4 @@
- ==============================================
+==============================================
 DESCRIBE ENGLISH 
 ==============================================
 
@@ -8,4 +8,4 @@ Describe how to set a breakpoint for the debugger in a program.
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
 
-Beschreiben Sie bitte, wie Sie einen Haltepunkt für den Debugger in einem Programm setzen.
+Beschreiben Sie bitte, wie Sie einen Haltepunkt f≈∏r den Debugger in einem Programm setzen.
