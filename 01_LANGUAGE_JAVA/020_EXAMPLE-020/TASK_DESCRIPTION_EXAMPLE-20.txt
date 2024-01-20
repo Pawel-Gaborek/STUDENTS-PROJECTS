@@ -52,9 +52,3 @@ zusŠtzlich den Namen und den vollstŠndigen Pfad beziehungsweise die URL des
 aktuellen Dokuments anzeigen. Wenn das Dokument noch keinen Namen hat, 
 soll in der Titelleiste ãohneNameÒ erscheinen.
 Den Text in der Titelleiste kšnnen Sie mit der Methode setTitle() setzen.
-
-3. Lassen Sie in der Titelleiste der Textverarbeitung hinter dem Text 
-ãMiniTextÒ zusŠtzlich den Namen und den vollstŠndigen Pfad beziehungsweise 
-die URL des aktuellen Dokuments anzeigen. Wenn das Dokument noch keinen 
-Namen hat, soll in der Titelleiste ãohneNameÒ erscheinen.
-Den Text in der Titelleiste kšnnen Sie mit der Methode setTitle() setzen.
