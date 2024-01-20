@@ -2,15 +2,24 @@
 DESCRIBE ENGLISH 
 ==============================================
 
-1. extend the application from this study booklet, in which you can change the size of a text using the two buttons, so that the current size is also displayed in a label.
-Arrange the components in a grid layout with two columns. It is up to you which component appears where.
-Please note that you cannot display the value of an int type directly in a label. You must first convert the value to the string type - for example, with Integer.toString(<intValue>).
+1. extend the application from this study booklet, in which you can change the size of a 
+text using the two buttons, so that the current size is also displayed in a label.
+Arrange the components in a grid layout with two columns. It is up to you which 
+component appears where.
+Please note that you cannot display the value of an int type directly in a label. 
+You must first convert the value to the string type - for example, 
+with Integer.toString(<intValue>).
 
 
 ==============================================
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
 
-1. Erweitern Sie die Anwendung aus diesem Studienheft, in der die Größe eines Textes über die beiden Schaltflächen verändert werden kann, so, dass die aktuelle Größe zusätzlich in einem Label angezeigt wird.
-Ordnen Sie die Komponenten bitte außerdem in einem GridLayout mit zwei Spalten an. Welche Komponente wo erscheint, ist dabei Ihnen überlassen.
-Bitte beachten Sie, dass Sie den Wert eines int-Typen nicht direkt in einem Label anzeigen lassen können. Sie müssen den Wert erst in den Typen String umwandeln – zum Beispiel mit Integer.toString(<intWert>).
+1. Erweitern Sie die Anwendung aus diesem Studienheft, in der die Gr≈°¬ße eines 
+Textes ≈∏ber die beiden Schaltfl≈†chen ver≈†ndert werden kann, so, dass die 
+aktuelle Gr≈°¬ße zus≈†tzlich in einem Label angezeigt wird.
+Ordnen Sie die Komponenten bitte au¬ßerdem in einem GridLayout mit zwei 
+Spalten an. Welche Komponente wo erscheint, ist dabei Ihnen ≈∏berlassen.
+Bitte beachten Sie, dass Sie den Wert eines int-Typen nicht direkt in einem 
+Label anzeigen lassen k≈°nnen. Sie m≈∏ssen den Wert erst in den Typen String 
+umwandeln √ê zum Beispiel mit Integer.toString(<intWert>).
