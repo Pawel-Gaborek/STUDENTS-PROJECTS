@@ -2,13 +2,21 @@
 DESCRIBE ENGLISH 
 ==============================================
 
-Revise the plausibility check in the constructor of the Wine class from code 1.5 of this study guide so that instead of silently setting defaults for invalid values, it throws an exception of the IllegalArgumentException class.
-Make sure that these exceptions are forwarded to the caller. Also create a main() method to handle the exceptions and test the changes there.
+Revise the plausibility check in the constructor of the Wine class from 
+code 1.5 of this study guide so that instead of silently setting defaults 
+for invalid values, it throws an exception of the IllegalArgumentException class.
+Make sure that these exceptions are forwarded to the caller. Also create a main() 
+method to handle the exceptions and test the changes there.
 
 
 ==============================================
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
 
-Überarbeiten Sie die Plausibilitätsprüfung in dem Konstruktor der Klasse Wein aus dem Code 1.5 dieses Studienheftes so, dass bei ungültigen Werten nicht mehr stillschweigend Standardwerte gesetzt werden, sondern jeweils eine Ausnahme der Klasse IllegalArgumentException ausgelöst wird.
-Sorgen Sie dafür, dass diese Ausnahmen an den Aufrufer weitergeleitet werden. Erstellen Sie auch eine main()-Methode, in der Sie die Ausnahmen behandeln, und testen Sie dort die Änderungen.
+‚Ä†berarbeiten Sie die Plausibilit≈†tspr≈∏fung in dem Konstruktor der Klasse 
+Wein aus dem Code 1.5 dieses Studienheftes so, dass bei ung≈∏ltigen Werten 
+nicht mehr stillschweigend Standardwerte gesetzt werden, sondern jeweils 
+eine Ausnahme der Klasse IllegalArgumentException ausgel≈°st wird.
+Sorgen Sie daf≈∏r, dass diese Ausnahmen an den Aufrufer weitergeleitet werden. 
+Erstellen Sie auch eine main()-Methode, in der Sie die Ausnahmen behandeln, 
+und testen Sie dort die ‚Ç¨nderungen.
