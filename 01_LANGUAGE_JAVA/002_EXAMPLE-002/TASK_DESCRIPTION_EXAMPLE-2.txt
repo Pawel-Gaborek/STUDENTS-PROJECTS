@@ -1,0 +1,51 @@
+==============================================
+DESCRIBE ENGLISH 
+==============================================
+
+a program with a graphical interface
+
+Program a calculator for the four basic arithmetic operations with a graphical interface. The calculator should only have one field for entering the numbers and outputting the result. The entire operation - for example entering the numbers and selecting the arithmetic operation - should be done via buttons.
+
+Hints:
+
+Remember that the input fields can only handle text.
+If you use a BorderLayout, put the components in panels first and then put the panels in the areas.
+You don't have to take keyboard entries into account.
+Intercept a division by 0.
+The program should basically work according to the following scheme:
+• Enter the first number,
+• Selection of the operator,
+• Enter the second number,
+• Clicking the = button,
+• Display the result.
+If a result is already displayed, it should be considered the first number. You do not need to consider other cases.
+
+
+
+==============================================
+DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
+==============================================
+
+ein Programm mit grafischer Oberfläche
+
+Programmieren Sie einen Taschenrechner für die vier Grundrechenarten mit grafischer Oberfläche. Der Taschenrechner soll nur ein Feld für die Eingabe der Zahlen und die Ausgabe des Ergebnisses haben. Die gesamte Bedienung – zum Beispiel die Eingabe der Zahlen und die Auswahl der Rechenoperation – soll über Schaltflächen erfolgen.
+
+Hinweise: 
+
+Denken Sie daran, dass die Eingabefelder nur Text verarbeiten können.
+Wenn Sie ein BorderLayout verwenden, fügen Sie die Komponenten zuerst in Panels ein und setzen Sie danach die Panels in die Bereiche.
+Eingaben über die Tastatur müssen Sie nicht berücksichtigen.
+Fangen Sie eine Division durch 0 ab.
+Das Programm soll grundsätzlich nach dem Schema arbeiten:
+• Eingabe der ersten Zahl, 
+• Auswahl des Operators, 
+• Eingabe der zweiten Zahl, 
+• Anklicken der Schaltfläche =,
+• Anzeige des Ergebnisses. 
+Falls bereits ein Ergebnis angezeigt wird, soll es als erste Zahl gelten. Andere Fälle müssen Sie nicht berücksichtigen.
+
+
+
+
+
+
