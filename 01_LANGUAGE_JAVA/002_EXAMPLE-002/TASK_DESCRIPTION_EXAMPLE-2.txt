@@ -31,7 +31,9 @@ DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 
 ein Programm mit grafischer Oberfläche
 
-Programmieren Sie einen Taschenrechner für die vier Grundrechenarten mit grafischer Oberfläche. Der Taschenrechner soll nur ein Feld für die Eingabe der Zahlen und die Ausgabe des Ergebnisses haben. Die gesamte Bedienung – zum Beispiel die Eingabe der Zahlen und die Auswahl der Rechenoperation – soll über Schaltflächen erfolgen.
+Programmieren Sie einen Taschenrechner für die vier Grundrechenarten mit grafischer Oberfläche. Der Taschenrechner soll nur ein 
+Feld für die Eingabe der Zahlen und die Ausgabe des Ergebnisses haben. Die gesamte Bedienung – zum Beispiel die Eingabe der 
+Zahlen und die Auswahl der Rechenoperation – soll über Schaltflächen erfolgen.
 
 Hinweise: 
 

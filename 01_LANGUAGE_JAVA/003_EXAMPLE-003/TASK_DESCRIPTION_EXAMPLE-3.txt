@@ -5,9 +5,13 @@ DESCRIBE ENGLISH
 a program with a graphical interface
 
 Program a “one armed bandit”. To do this, display numbers rolled into three labels.
-The player has 100 EUR starting credit. Each game costs 10 EUR. If he rolls two identical dice he receives a profit of EUR 20, and if he rolls three identical dice he receives a profit of EUR 100. The game should end when the player has lost everything.
+The player has 100 EUR starting credit. Each game costs 10 EUR. If he rolls two identical dice he receives 
+a profit of EUR 20, and if he rolls three identical dice he receives a profit of EUR 100. The game should 
+end when the player has lost everything.
 Hints:
-You can display the images in a label using the ImageIcon class. To do this, use the setIcon() method of the JLabel class. For example, the following statement assigns the image eins.png from the images folder to the label wuerfel1: wuerfel1.setIcon(new ImageIcon("bilder/eins.png"));
+You can display the images in a label using the ImageIcon class. To do this, use the setIcon() method of
+the JLabel class. For example, the following statement assigns the image eins.png from the images folder 
+to the label wuerfel1: wuerfel1.setIcon(new ImageIcon("bilder/eins.png"));
 For easy access, you should copy the images to a folder in your project that is at the same level as the src folder.
 You can find pictures for the diced eyes in the booklet-related download area of your online learning platform.
 
@@ -19,10 +23,15 @@ DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ein Programm mit grafischer Oberfläche
 
 Programmieren Sie einen „einarmigen Banditen“. Lassen Sie dazu in drei Labels gewürfelte Zahlen anzeigen.
-Der Spieler hat 100 EUR Startguthaben. Jedes Spiel kostet 10 EUR. Bei zwei identischen Würfeln erhält er 20 EUR Gewinn, bei drei identischen Würfeln 100 EUR. Das Spiel soll beendet werden, wenn der Spieler alles verspielt hat.
+Der Spieler hat 100 EUR Startguthaben. Jedes Spiel kostet 10 EUR. Bei zwei identischen Würfeln erhält 
+er 20 EUR Gewinn, bei drei identischen Würfeln 100 EUR. Das Spiel soll beendet werden, wenn der Spieler 
+alles verspielt hat.
 Hinweise: 
-Die Bilder können Sie über die Klasse ImageIcon in einem Label anzeigen lassen. Benutzen Sie dazu die Methode setIcon() der Klasse JLabel. Die folgende Anweisung weist zum Beispiel das Bild eins.png aus dem Ordner bilder dem Label wuerfel1 zu: wuerfel1.setIcon(new ImageIcon("bilder/eins.png")); 
-Für einen einfachen Zugriff sollten Sie die Bilder in einen Ordner in Ihrem Projekt kopieren, der sich auf derselben Ebene wie der Ordner src befindet.
+Die Bilder können Sie über die Klasse ImageIcon in einem Label anzeigen lassen. Benutzen Sie dazu 
+die Methode setIcon() der Klasse JLabel. Die folgende Anweisung weist zum Beispiel das Bild eins.png aus 
+dem Ordner bilder dem Label wuerfel1 zu: wuerfel1.setIcon(new ImageIcon("bilder/eins.png")); 
+Für einen einfachen Zugriff sollten Sie die Bilder in einen Ordner in Ihrem Projekt kopieren, der sich
+auf derselben Ebene wie der Ordner src befindet.
 Bilder für die gewürfelten Augen finden Sie im heftbezogenen Download-Bereich Ihrer Online-Lernplattform.
 
 
