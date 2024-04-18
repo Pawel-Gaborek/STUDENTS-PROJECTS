@@ -4,7 +4,10 @@ DESCRIBE ENGLISH
 
 a program with a graphical interface
 
-Program a calculator for the four basic arithmetic operations with a graphical interface. The calculator should only have one field for entering the numbers and outputting the result. The entire operation - for example entering the numbers and selecting the arithmetic operation - should be done via buttons.
+Program a calculator for the four basic arithmetic operations with a graphical interface. The
+calculator should only have one field for entering the numbers and outputting the result. The entire
+operation - for example entering the numbers and selecting the arithmetic operation - should be done
+via buttons.
 
 Hints:
 
