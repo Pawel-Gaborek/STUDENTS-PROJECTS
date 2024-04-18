@@ -1,0 +1,33 @@
+==============================================
+DESCRIBE ENGLISH 
+==============================================
+
+a program with a graphical interface
+
+Übersetzungsergebnisse
+Übersetzung
+Create a program that can convert Arabic numerals to Roman and vice versa. The Roman numerals with the corresponding values can be found in the following table:
+
+A Roman numeral consists of a sequence of Roman numerals. The value of the entire number is obtained by adding the values. The larger values are usually always on the left, the smaller ones on the right.
+If there is a smaller digit to the left of a larger one, the value of that digit is subtracted from the digit immediately to the right of it. The number IX then stands for 10! – 1, i.e. 9. There are never more than three identical digits following each other. 4 is represented as IV, 9 as IX, 40 as XL, 90 as XC, 400 as CD and 900 as CM. However, this rule only applies to the next and the next value. Combinations such as IID or XM are therefore not possible.
+Some examples for the test:
+1997 – MCMXCVII
+2009 – MMIX
+414 – CDXIV
+
+==============================================
+DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
+==============================================
+
+ein Programm mit grafischer Oberfläche
+
+Erstellen Sie ein Programm, das arabische Zahlen in römische umrechnen kann und umgekehrt. Die römischen Ziffern mit den entsprechenden Werten finden Sie in der folgenden Tabelle:
+
+Eine römische Zahl besteht aus einer Folge von römischen Ziffern. Der Wert der gesamten Zahl ergibt sich durch die Addition der Werte. Die größeren Werte stehen normalerweise immer links, die kleineren rechts.
+Steht eine kleinere Ziffer links vor einer größeren, wird der Wert dieser Ziffer von der Ziffer direkt rechts daneben abgezogen. Die Zahl IX steht dann also für 10!– 1, also für 9. Es folgen nie mehr als drei identische Ziffern aufeinander. 4 wird als IV darstellt, 9 als IX, 40 als XL, 90 als XC, 400 als CD und 900 als CM. Diese Regel gilt allerdings nur für den jeweils nächsten und übernächsten Wert. Kombinationen wie IID oder XM sind also nicht möglich.
+Einige Beispiele zum Test:
+1997 – MCMXCVII
+2009 – MMIX
+414 – CDXIV
+
+
