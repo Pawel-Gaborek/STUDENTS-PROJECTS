@@ -2,11 +2,31 @@
 DESCRIBE ENGLISH 
 ==============================================
 
+a program with a graphical interface
 
+Write a program that reads two numbers.
+Make sure one number is larger than the other number.
+To do this, repeat the entry if necessary.
+Then create a loop starting from the smaller number to the
+larger number and determines the number of runs.
+A notice:
+The order of entry should be arbitrary. It can
+So the larger number must be entered first and then the smaller one.
 
 ==============================================
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
+
+ein Programm mit grafischer Oberfläche
+
+Schreiben Sie ein Programm, das zwei Zahlen einliest.
+Stellen Sie sicher, dass die eine Zahl größer ist als die andere Zahl. 
+Lassen Sie dazu gegebenenfalls die Eingabe wiederholen. 
+Erstellen Sie dann eine Schleife, die von der kleineren Zahl bis zur
+größeren Zahl durchläuft und die Anzahl der Durchläufe ermittelt.
+Hinweis: 
+Die Reihenfolge der Eingabe soll beliebig sein. Es kann 
+also auch erst die größere Zahl eingegeben werden und dann die kleinere.
 
 
 
