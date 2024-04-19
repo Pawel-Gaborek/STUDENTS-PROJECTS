@@ -1,0 +1,34 @@
+==============================================
+DESCRIBE ENGLISH 
+==============================================
+
+a program with a graphical interface
+
+Write a program that reads a string
+and then determines the number of vowels and the number of consonants
+in the string. As consonants are allowed
+counted as consonants are all characters that are not vowels - i.e.
+Examples are numbers and special characters.
+When determining the number of vowels, take into account and
+consonants are both uppercase and lowercase.
+Use a switch construction to solve this problem.
+
+==============================================
+DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
+==============================================
+
+ein Programm mit grafischer Oberfläche
+
+Erstellen Sie ein Programm, das eine Zeichenkette einliest 
+und dann die Anzahl der Vokale sowie die Anzahl der Konsonanten 
+in der Zeichenkette ermittelt. Als Konsonant dürfen dabei 
+alle Zeichen gezählt werden, die kein Vokal sind – also zum 
+Beispiel auch Zahlen und Sonderzeichen.
+Berücksichtigen Sie bei der Ermittlung der Vokale und 
+Konsonanten sowohl Groß- als auch Kleinbuchstaben.
+Benutzen Sie für die Lösung dieser Aufgabe eine switch-Konstruktion.
+
+
+
+
+
