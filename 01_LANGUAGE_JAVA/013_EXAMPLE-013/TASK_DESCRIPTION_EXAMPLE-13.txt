@@ -24,8 +24,8 @@ DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
 
 1. Erstellen Sie einen Editor, mit dem Sie eine Wortliste 
-fŸr das Hangman-Spiel in einer Datei ablegen kšnnen. 
-Speichern Sie in dieser Datei nicht nur die Wšrter an sich, 
+fŸr das Hangman-Spiel in einer Datei ablegen können. 
+Speichern Sie in dieser Datei nicht nur die Wörter an sich, 
 sondern auch die Anzahl der gespeicherten Wšrter. 
 FŸr das Speichern reicht es aus, wenn Sie jeweils ein 
 neues Wort am Ende der Datei anhŠngen. Eine nachtrŠgliche 
