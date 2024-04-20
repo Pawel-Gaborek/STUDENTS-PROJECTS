@@ -1,0 +1,27 @@
+==============================================
+DESCRIBE ENGLISH 
+==============================================
+
+a command prompt program (Terminal // CMD)
+
+Create a program that outputs the multiplication table as a table.
+Use a two-dimensional array to create.
+Fill this array with the results first.
+Then output the results.
+
+
+==============================================
+DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
+==============================================
+
+ein Programm für die Eingabeaufforderung
+
+Erstellen Sie ein Programm, das das kleine Einmaleins als Tabelle ausgibt.
+Benutzen Sie für das Erstellen ein zweidimensionales Array. 
+Füllen Sie dieses Array erst mit den Ergebnissen. 
+Geben Sie danach die Ergebnisse aus.
+
+
+
+
+

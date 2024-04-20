@@ -1,0 +1,37 @@
+==============================================
+DESCRIBE ENGLISH 
+==============================================
+
+a command prompt program (Terminal // CMD)
+
+Program a Hangman game.
+The game should work like this:
+• The program randomly determines a word from a series of given words.
+• Display an underscore for each letter of the word.
+• The user has 10 attempts to guess the word. He is allowed to do so
+Enter one letter per attempt. If the letter in the word
+occurs, it should be displayed. The user will then also
+no attempt deducted.
+• If the user does not find a letter, he is given a
+Attempt deducted and he can continue guessing.
+
+==============================================
+DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
+==============================================
+
+ein Programm für die Eingabeaufforderung
+
+Programmieren Sie ein Hangman-Spiel.
+Das Spiel soll so funktionieren:
+• Das Programm ermittelt zufällig ein Wort aus einer Reihe vorgegebener Wörter. 
+• Lassen Sie für das Wort für jeden Buchstaben einen Unterstrich anzeigen. 
+• Der Anwender hat 10 Versuche, das Wort zu erraten. Dabei darf er 
+pro Versuch einen Buchstaben eingeben. Wenn der Buchstabe in dem Wort 
+vorkommt, soll er angezeigt werden. Dem Anwender wird dann auch 
+kein Versuch abgezogen. 
+• Findet der Anwender dagegen keinen Buchstaben, wird ihm ein 
+Versuch abgezogen und er kann weiterraten. 
+
+
+
+

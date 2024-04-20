@@ -1,0 +1,41 @@
+==============================================
+DESCRIBE ENGLISH 
+==============================================
+
+a command prompt program (Terminal // CMD)
+
+Task:
+You work for a company that deals in real estate. Create a program that
+
+• reads the length and width of a property in meters,
+• reads the price per square meter,
+• calculates the price of the property and displays it on the screen.
+
+Add 5% commission to the price of the property.
+Add 19% VAT commission to the price.
+Display these two prizes on the screen as well.
+Use symbolic constants for the markups.
+
+==============================================
+DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
+==============================================
+
+ein Programm für die Eingabeaufforderung
+
+Aufgabe: 
+Sie arbeiten für ein Unternehmen, das mit Grundstücken handelt. Erstellen Sie ein Programm, das
+
+• die Länge und Breite eines Grundstücks in Metern einliest,
+• den Preis pro Quadratmeter einliest,
+• den Preis des Grundstücks berechnet und auf dem Bildschirm ausgibt.
+
+Schlagen Sie auf den Preis des Grundstücks 5 % Provision auf.
+Schlagen Sie auf den Preis mit der Provision 19 % Mehrwertsteuer auf.
+Geben Sie diese beiden Preise ebenfalls auf dem Bildschirm aus.
+Benutzen Sie für die Aufschläge symbolische Konstanten.
+
+
+
+
+
+
