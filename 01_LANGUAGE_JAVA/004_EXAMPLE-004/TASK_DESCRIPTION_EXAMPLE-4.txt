@@ -4,8 +4,6 @@ DESCRIBE ENGLISH
 
 a program with a graphical interface
 
-Übersetzungsergebnisse
-Übersetzung
 Create a program that can convert Arabic numerals to Roman and vice versa. The Roman numerals with the corresponding values 
 can be found in the following table:
 

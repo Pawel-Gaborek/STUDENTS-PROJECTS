@@ -2,6 +2,8 @@
 DESCRIBE ENGLISH
 ==============================================
 
+a program with a graphical interface
+
 1. at the end of the memory game, display the winner. So that the 
 player can read this output, please also make sure that the game 
 is not closed immediately after the end. 
@@ -31,6 +33,8 @@ a little larger to see the new button after it is inserted.
 ==============================================
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
+
+ein Programm mit grafischer Oberfläche
 
 1. Lassen Sie am Ende des Memory-Spiels ausgeben, wer gewonnen hat. 
 Damit der Spieler diese Ausgabe lesen kann, sorgen Sie bitte au§erdem 

@@ -2,6 +2,8 @@
 DESCRIBE ENGLISH
 ==============================================
 
+a program with a graphical interface
+
 You want to use a shape to draw a yellow filled rectangle 
 with a black border. See the instructions. You can choose 
 the size of the rectangle.
@@ -10,6 +12,8 @@ the size of the rectangle.
 ==============================================
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
+
+ein Programm mit grafischer Oberfläche
 
 Sie wollen mit einem Shape ein gelb gefŸlltes Rechteck mit 
 einem schwarzen Rand zeichnen lassen. Notieren Sie bitte die 

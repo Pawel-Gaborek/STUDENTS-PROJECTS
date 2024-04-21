@@ -2,6 +2,8 @@
 DESCRIBE ENGLISH
 ==============================================
 
+a program with a graphical interface
+
 You want to draw a circle with a diameter of 200 points 
 using the JavaFX Canvas API. You want the center of 
 the circle to be at position 100,100. What is the 
@@ -10,6 +12,8 @@ appropriate command to create the circle?
 ==============================================
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
+
+ein Programm mit grafischer Oberfläche
 
 1. Sie wollen mit der JavaFX Canvas API einen Kreis mit 
 dem Durchmesser 200 Punkte zeichnen. Der Mittelpunkt des 

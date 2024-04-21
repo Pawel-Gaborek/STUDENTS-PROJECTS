@@ -2,6 +2,8 @@
 DESCRIBE ENGLISH
 ==============================================
 
+a program with a graphical interface
+
 Create a program that animates a circle and a square. 
 The circle should get bigger and bigger from the inside out and 
 the square should get smaller and smaller from the inside out. 
@@ -13,6 +15,8 @@ such as size or speed, can be set by you.
 ==============================================
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
+
+ein Programm mit grafischer Oberfläche
 
 Erstellen Sie ein Programm, das einen Kreis und ein Quadrat animiert. 
 Der Kreis soll dabei von innen nach au§en immer grš§er werden und 

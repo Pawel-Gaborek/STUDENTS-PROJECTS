@@ -2,6 +2,8 @@
 DESCRIBE ENGLISH 
 ==============================================
 
+a program with a graphical interface
+
 1. create an editor that allows you to save a list of 
 words for the Hangman game to a file. In this file you will 
 save not only the words themselves, but also the number of words saved. 
@@ -22,6 +24,8 @@ please document this solution in detail.
 ==============================================
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
+
+ein Programm mit grafischer Oberfläche
 
 1. Erstellen Sie einen Editor, mit dem Sie eine Wortliste 
 fur das Hangman-Spiel in einer Datei ablegen können. 

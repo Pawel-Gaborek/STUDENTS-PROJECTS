@@ -2,6 +2,8 @@
 DESCRIBE ENGLISH
 ==============================================
 
+a program with a graphical interface
+
 Add a function for drawing a filled circle to the Paint program 
 in this tutorial. You can decide which color you want to use to 
 fill the circle. This function should also be available from the 
@@ -12,6 +14,8 @@ toolbar. You can find an image for this symbol in the
 ==============================================
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
+
+ein Programm mit grafischer Oberfläche
 
 Erweitern Sie das Malprogramm aus diesem Studienheft um 
 eine Funktion zum Zeichnen eines gefŸllten Kreises. 
