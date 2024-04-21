@@ -2,6 +2,8 @@
 DESCRIBE ENGLISH 
 ==============================================
 
+a program with a graphical interface
+
 Create an application in which you can change the position of the application window using 
 four buttons. One button should move the window 10 pixels up, one 10 pixels down, and the 
 other two 10 pixels to the left and right.
@@ -27,6 +29,8 @@ Look there again if you need to.
 ==============================================
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
+
+ein Programm mit grafischer Oberfläche
 
 Erstellen Sie eine Anwendung, in der Sie die Position des Fensters der
 Anwendung Ÿber vier SchaltflŠchen verŠndern kšnnen. Eine SchaltflŠche 

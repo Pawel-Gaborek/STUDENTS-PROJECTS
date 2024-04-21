@@ -2,6 +2,8 @@
 DESCRIBE ENGLISH 
 ==============================================
 
+a program with a graphical interface
+
 1. Create an application that allows you to switch between layouts for an internal panel
 at runtime. This panel should contain at least three labels or similar components.
 Offer the user at least three different layouts via a group of radio buttons. It 
@@ -16,6 +18,8 @@ should remain the same.
 ==============================================
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
+
+ein Programm mit grafischer Oberfläche
 
 1. Erstellen Sie eine Anwendung, bei der zur Laufzeit zwischen den Layouts 
 fŸr ein innen liegendes Panel gewechselt werden kann. In diesem Panel 

@@ -2,6 +2,8 @@
 DESCRIBE ENGLISH 
 ==============================================
 
+a program with a graphical interface
+
 1. modify the calculator in this workbook so that the arithmetic operation is 
 no longer selected from a group of radio buttons, but from a combo box.
 Use the following specifications:
@@ -19,6 +21,8 @@ are caught by exception handling.
 ==============================================
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
+
+ein Programm mit grafischer Oberfläche
 
 1. €ndern Sie den Taschenrechner aus diesem Studienheft so, dass die Auswahl 
 der Rechenoperation nicht mehr Ÿber eine Gruppe mit Optionsfeldern erfolgt, 
