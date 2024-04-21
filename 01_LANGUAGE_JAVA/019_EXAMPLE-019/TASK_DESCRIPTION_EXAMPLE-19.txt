@@ -1,6 +1,9 @@
 ==============================================
 DESCRIBE ENGLISH 
 ==============================================
+
+a program with a graphical interface
+
 1. convert the simple calculator you created as a Swing application into a 
 JavaFX application. It is up to you whether you choose the arithmetic operation 
 via a combo box or radio buttons.
@@ -21,6 +24,8 @@ free the instance of the dialog class.
 ==============================================
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
+
+ein Programm mit grafischer Oberfläche
 
 1. Setzen Sie den einfachen Taschenrechner, den Sie als Swing-Anwendung 
 erstellt haben, als JavaFX-Anwendung um. Ob Sie die Auswahl der Rechenoperation 

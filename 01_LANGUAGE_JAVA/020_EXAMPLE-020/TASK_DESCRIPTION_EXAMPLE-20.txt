@@ -2,6 +2,8 @@
 DESCRIBE ENGLISH 
 ==============================================
 
+a program with a graphical interface
+
 1. create an Info function that displays information about word processing 
 in a dialog box. This dialog could look like this:
 Figure E.1: The Info dialog
@@ -28,6 +30,8 @@ You can set the text in the title bar with the setTitle() method.
 ==============================================
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
+
+ein Programm mit grafischer Oberfläche
 
 1. Erstellen Sie eine Funktion Info, die in einem Dialog Informationen zur Textverarbeitung 
 anzeigt. Dieser Dialog kšnnte zum Beispiel so aussehen:

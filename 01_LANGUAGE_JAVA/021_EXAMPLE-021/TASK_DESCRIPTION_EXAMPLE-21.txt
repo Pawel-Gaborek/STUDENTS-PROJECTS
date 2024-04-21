@@ -2,6 +2,8 @@
 DESCRIBE ENGLISH 
 ==============================================
 
+a program with a graphical interface
+
 1. The BuntOderNichtGUI class you created in this tutorial still has a small bug: Although the 
 color red is displayed in the combo box, this color is not used until you explicitly select it 
 again from the combo box.
@@ -16,6 +18,8 @@ check what color the text initially has.
 ==============================================
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
+
+ein Programm mit grafischer Oberfläche
 
 1. Die Klasse BuntOderNichtGUI, die Sie in diesem Studienheft erstellt haben, weist noch 
 einen kleinen Schšnheitsfehler auf: In dem Kombinationsfeld wird zwar die Farbe Rot angezeigt, 
