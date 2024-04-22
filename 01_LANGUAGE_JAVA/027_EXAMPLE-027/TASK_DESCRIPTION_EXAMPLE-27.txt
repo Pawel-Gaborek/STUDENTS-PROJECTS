@@ -2,6 +2,8 @@
 DESCRIBE ENGLISH 
 ==============================================
 
+a program with a graphical interface
+
 1. formulate catch statements to handle the following exceptions
 a) An argument is passed in an invalid format,
 b) an attempt to access a non-existent class,
@@ -15,6 +17,8 @@ You only need to specify the line with the catch statement.
 ==============================================
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
+
+ein Programm mit grafischer Oberfläche
 
 1. Formulieren Sie catch-Anweisungen für die Verarbeitung folgender Ausnahmen:
 a) ein Argument wird in einem ungültigen Format übergeben,

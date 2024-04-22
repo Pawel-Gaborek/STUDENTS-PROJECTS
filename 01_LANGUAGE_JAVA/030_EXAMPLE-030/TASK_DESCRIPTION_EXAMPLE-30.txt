@@ -2,6 +2,8 @@
 DESCRIBE ENGLISH 
 ==============================================
 
+a program with a graphical interface
+
 Revise the plausibility check in the constructor of the Wine class from 
 code 1.5 of this study guide so that instead of silently setting defaults 
 for invalid values, it throws an exception of the IllegalArgumentException class.
@@ -12,6 +14,8 @@ method to handle the exceptions and test the changes there.
 ==============================================
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
+
+ein Programm mit grafischer Oberfläche
 
 †berarbeiten Sie die PlausibilitŠtsprŸfung in dem Konstruktor der Klasse 
 Wein aus dem Code 1.5 dieses Studienheftes so, dass bei ungŸltigen Werten 

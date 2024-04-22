@@ -2,6 +2,8 @@
 DESCRIBE ENGLISH 
 ==============================================
 
+a program with a graphical interface
+
 In our class for the graphical input dialogs, we check whether the input 
 was aborted by comparing a variable with the value zero. In principle, 
 this construction could be replaced by exception handling. Which exception 
@@ -13,6 +15,8 @@ the input is aborted. You can also use the Eclipse debugger to do this.
 ==============================================
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
+
+ein Programm mit grafischer Oberfläche
 
 In unserer Klasse fŸr die grafischen Eingabedialoge ŸberprŸfen wir durch 
 den Vergleich einer Variablen mit dem Wert null, ob die Eingabe 
