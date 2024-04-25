@@ -2,6 +2,8 @@
 DESCRIBE ENGLISH
 ==============================================
 
+a program with a graphical interface
+
 Create an executable JAR archive for the Swing Editor that can be used 
 to run the program as an application. Please also make sure that the 
 images for the toolbar are displayed correctly. Include the executable 
@@ -12,6 +14,8 @@ other projects for this booklet.
 ==============================================
 DESCRIBE GERMAN // BESCHREIBUNG AUF DEUTSCH
 ==============================================
+
+ein Programm mit grafischer Oberfläche
 
 Erstellen Sie fŸr den Swing Editor ein ausfŸhrbares JAR-Archiv, 
 Ÿber das das Programm als Applikation gestartet werden kann. 
